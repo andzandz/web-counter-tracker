@@ -1,0 +1,1 @@
+0,30 * * * * python cron_scripts/scrape-petition.py >> public/index.html
